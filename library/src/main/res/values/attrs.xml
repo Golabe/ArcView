@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ArcImageView">
+        <attr name="arc_height" format="dimension" />
+        <attr name="direction" format="enum">
+            <enum name="in" value="0x0001" />
+            <enum name="out" value="0x0002" />
+        </attr>
+    </declare-styleable>
+</resources>
