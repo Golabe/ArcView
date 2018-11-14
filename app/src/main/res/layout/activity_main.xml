@@ -11,8 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="300dp"
         android:src="@drawable/timg"
-        app:arc_height="50dp"
-        app:direction="in"
+        app:arc_height="20dp"
+        app:direction="out"
         tools:ignore="MissingConstraints" />
 
 </android.support.constraint.ConstraintLayout>
